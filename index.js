@@ -13,4 +13,5 @@ function johnLennonFacts() {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
+return facts + "!!!";
 }
